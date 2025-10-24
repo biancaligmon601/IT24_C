@@ -1,0 +1,19 @@
+#map { 
+    height: 500px;
+    margin: 50px;
+
+}
+h2{
+    text-align: center;
+    font-style: italic;
+}
+
+.popup-img {
+   max-width: 100px;
+   height: auto;
+}
+
+.leaflet-popup-content-wrapper {
+    font-family: 'Arial, sans-serif';
+    font-size: 14px;
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Pizza  Kid Manolo Fortich",
+        "description": "this place often known as famous for its very delicious pizza's.",
+        "img": "https://tse1.mm.bing.net/th/id/OIP.4hf33liTOIJEEymzSegPUQHaHa?pid=Api&P=0&h=220",
+        "lat": 8.390576,
+        "lng": 124.884587
+
+    },
+    {
+        "name": "Jollibee",
+        "description": "Jollibee is a famous Filipino fast-food chain known for its Chickenjoy and sweet spaghetti.",
+        "img": "https://tse3.mm.bing.net/th/id/OIP.tva-rVaam5P7ldCrTkSLswHaE8?pid=Api&P=0&h=220",
+        "lat": 8.367379, 
+        "lng": 124.865303
+    },
+    {
+        "name": "7/11 Manolo Fortich",
+        "description": "7/11 is a convenience store that offers food, drinks, and other daily needs for people on the go. ",
+        "img": "https://tse3.mm.bing.net/th/id/OIP.yePi3Nv1BsWSOsAU4FKtPQHaEv?pid=Api&P=0&h=220",
+        "lat": 8.368791, 
+        "lng": 124.864772
+    }
+    
+]
